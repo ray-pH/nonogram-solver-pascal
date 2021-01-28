@@ -9,8 +9,8 @@ The first line is the "top" clue, and the second line is the "left" clue.\
 Each "clue block" is separated by comma ",", and each clue within a "clue block" is separated by space " ".
 
 # Example Input
-For example
-![InputEx](./nonogram.png)
+For example\
+![InputEx](./nonogram.png)\
 can be written as
 ```
 1,5,2,5,2 1,2
