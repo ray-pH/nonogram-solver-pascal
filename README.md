@@ -1,7 +1,9 @@
 ## Nonogram Solver
 
 Simple Simple nonogram/picross solver in pascal,
-tested working in FPC 3.2.0
+tested working in FPC 3.2.0\
+nonogram.pas is the main/"original" source code, while nonogram\_v2.pas and nonogram\_random is a slightly
+modified implementation of it.
 
 # Input
 To change the input, edit "nonogram.txt". The program only consider the first two line.\
